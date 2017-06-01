@@ -1,8 +1,5 @@
-from methods import pizza
-
-class test(pizza):
-
-    print "pratik"
-
-
-print test().get_size1()
+def pow2smaller(n):
+	p=1
+	while p*2 < n:
+		p = p*2
+	return p
