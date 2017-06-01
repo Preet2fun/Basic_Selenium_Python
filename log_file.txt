@@ -1,0 +1,107 @@
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session {"desiredCapabilities": {"browserName": "firefox", "version": "", "platform": "ANY", "javascriptEnabled": true, "marionette": false}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/url {"url": "http://jqueryui.com/resources/demos/droppable/default.html", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/window/current/maximize {"windowHandle": "current", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/element {"using": "id", "value": "draggable", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/element {"using": "id", "value": "droppable", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/moveto {"element": "{3522b49a-804a-4b2e-a8e5-75c438326a63}", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/buttondown {"sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/moveto {"element": "{eabf975d-3777-425e-9df9-d66bb43e9cb6}", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/buttonup {"sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/element/{eabf975d-3777-425e-9df9-d66bb43e9cb6}/text {"id": "{eabf975d-3777-425e-9df9-d66bb43e9cb6}", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/element/{eabf975d-3777-425e-9df9-d66bb43e9cb6}/text {"id": "{eabf975d-3777-425e-9df9-d66bb43e9cb6}", "sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:50273/hub/session/b8226995-7f37-499c-ba94-3efb1e14df7d/window {"sessionId": "b8226995-7f37-499c-ba94-3efb1e14df7d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session {"desiredCapabilities": {"version": "", "platform": "ANY", "browserName": "firefox", "javascriptEnabled": true, "marionette": false}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/url {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "url": "http://jqueryui.com/resources/demos/droppable/default.html"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/timeouts/implicit_wait {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "ms": 30000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/window/current/maximize {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "windowHandle": "current"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/element {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "value": "draggable", "using": "id"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/element {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "value": "droppable", "using": "id"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/moveto {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "element": "{a99390b1-a5e3-4b42-8972-c17fa1414639}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/buttondown {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/moveto {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "element": "{2c65f6d7-796b-4d0c-bd5f-b3cba02b0b1c}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/buttonup {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/element/{2c65f6d7-796b-4d0c-bd5f-b3cba02b0b1c}/text {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "id": "{2c65f6d7-796b-4d0c-bd5f-b3cba02b0b1c}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/element/{2c65f6d7-796b-4d0c-bd5f-b3cba02b0b1c}/text {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2", "id": "{2c65f6d7-796b-4d0c-bd5f-b3cba02b0b1c}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:50379/hub/session/c6d15d08-8334-4f65-898a-b8f8ba7148f2/window {"sessionId": "c6d15d08-8334-4f65-898a-b8f8ba7148f2"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session {"desiredCapabilities": {"version": "", "platform": "ANY", "javascriptEnabled": true, "browserName": "firefox", "marionette": false}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/url {"url": "http://jqueryui.com/resources/demos/droppable/default.html", "sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/window/current/maximize {"windowHandle": "current", "sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/element {"using": "id", "value": "draggable", "sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/element {"using": "id", "value": "droppable", "sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/moveto {"sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c", "element": "{ee4d0d9f-aa1d-4b07-a957-b23e3fac0dc4}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/buttondown {"sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/moveto {"sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c", "element": "{809c49db-fe10-4604-a5c7-586cfee7c365}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/buttonup {"sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/element/{809c49db-fe10-4604-a5c7-586cfee7c365}/text {"id": "{809c49db-fe10-4604-a5c7-586cfee7c365}", "sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/element/{809c49db-fe10-4604-a5c7-586cfee7c365}/text {"id": "{809c49db-fe10-4604-a5c7-586cfee7c365}", "sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:50448/hub/session/f89defd6-9a93-4b06-9aa7-0536ef0b163c/window {"sessionId": "f89defd6-9a93-4b06-9aa7-0536ef0b163c"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session {"desiredCapabilities": {"javascriptEnabled": true, "version": "", "platform": "ANY", "browserName": "firefox", "marionette": false}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:root:URL Get Open
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/url {"url": "http://jqueryui.com/resources/demos/droppable/default.html", "sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/timeouts/implicit_wait {"sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416", "ms": 30000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/window/current/maximize {"windowHandle": "current", "sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/element {"using": "id", "value": "draggable", "sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:root:Source Target Found
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/element {"using": "id", "value": "droppable", "sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:root:Destination Target Found
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/moveto {"sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416", "element": "{717883ab-07a4-4587-bde2-81606af5f2b1}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/buttondown {"sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/moveto {"sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416", "element": "{0fa3b2e2-01d1-4079-ba9b-7a41f2439217}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/buttonup {"sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/element/{0fa3b2e2-01d1-4079-ba9b-7a41f2439217}/text {"id": "{0fa3b2e2-01d1-4079-ba9b-7a41f2439217}", "sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/element/{0fa3b2e2-01d1-4079-ba9b-7a41f2439217}/text {"id": "{0fa3b2e2-01d1-4079-ba9b-7a41f2439217}", "sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:50549/hub/session/63708f70-0bb5-4394-9bd1-bd6eaef18416/window {"sessionId": "63708f70-0bb5-4394-9bd1-bd6eaef18416"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
